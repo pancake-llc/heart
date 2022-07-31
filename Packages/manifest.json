@@ -3,6 +3,7 @@
     "com.pancake.ui": "https://github.com/pancake-llc/ui.git?path=Assets/_Root#1.0.0",
     "com.pancake.loader": "https://github.com/pancake-llc/loader.git?path=Assets/_Root#1.0.1",
     "com.pancake.database": "https://github.com/pancake-llc/database.git?path=Assets/_Root#1.0.0",
+    "com.pancake.savedata": "https://github.com/pancake-llc/save-data.git?path=Assets/_Root#1.0.2",
     "com.snorlax.local-notification": "https://github.com/snorluxe/local-notification.git?path=Assets/_Root#2022.7.15",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.3.1",
     "com.pancake.tween": "https://github.com/pancake-llc/tween.git?path=Assets/_Root#1.4.0",
